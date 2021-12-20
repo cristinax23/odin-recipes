@@ -1,0 +1,62 @@
+/*home page*/
+body, .front {
+    background-color: #F7F4E2;
+}
+
+.front {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.front {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*pumpkin cupcakes*/
+.pumpkin {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.pumpkin.description {
+    text-align: center;
+}
+
+.pumpkin.ingredients,
+.pumpkin.steps {
+    text-align: left;
+}
+
+
+/*spagetti*/
+.spaghetti {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.spaghetti.description {
+    text-align: center;
+}
+
+.spaghetti.ingredients,
+.spaghetti.steps {
+    text-align: left;
+}
+
+/*breakfast sandwich*/
+
+.sandwich {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.sandwich.description {
+    text-align: center;
+}
+
+.sandwich.ingredients,
+.sandwich.steps {
+    text-align: left;
+}
